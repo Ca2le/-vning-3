@@ -6,6 +6,9 @@ namespace Exercise3
     {
         static void Main(string[] args)
         {
+            //
+            //SVAREN PÅ FRÅGORNA FINNS I README.MD
+            //
             PersonHandler personHandler = new PersonHandler();
             Person lisa = personHandler.CreatePerson(25, "Lisa", "Lisasson", 1.75, 65);
             
